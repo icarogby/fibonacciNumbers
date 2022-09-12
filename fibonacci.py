@@ -1,1 +1,2 @@
-# de
+def fibonacci():
+    print()

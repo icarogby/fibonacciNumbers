@@ -1,2 +1,4 @@
 def fibonacci():
-    print()
+    print(2)
+
+fibonacci()
